@@ -9,6 +9,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
     <PackageReference Include="Okta.AspNet.Abstractions" Version="1.0.0" />
     <PackageReference Include="Okta.AspNetCore" Version="1.1.0" />
+    <PackageReference Include="Okta.Sdk" Version="1.1.0" />
   </ItemGroup>
 
   <ItemGroup>

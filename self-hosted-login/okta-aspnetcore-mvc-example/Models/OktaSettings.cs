@@ -3,5 +3,6 @@
     public class OktaSettings
     {
         public string OktaDomain { get; set; }
+        public string ApiKey { get; set; }
     }
 }
